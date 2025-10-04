@@ -158,13 +158,29 @@ const ucsur_list = {
 	".": "\u{F199C} ",
 	":": "\u{F199D} ",
 	"zz": "\u{3000}",
-	"<": "\u{300C}",
-	">": "\u{300D}",
+	"<": "\u{F199E}",
+	">": "\u{F199F}",
 	"~~": "\u{FE01}",
 	"~": "\u{FE00}",
 	" ": "",
 	"!": "! ",
-	",": ", "
+	",": ", ",
+	"ete": `⏍`,
+	"ewe": `⌂`,
+	"isipin": `⦵`,
+	"kamalawala": `\u{F19AA}`,
+	"kan": `ߝ`,
+	"kapesi": `\u{F19AB}`,
+	"ke": "\u{F19B5}`,
+	"kese": `ŋ`,
+	"kiki": `\u{F19A5}`,
+	"likujo": `፨`,
+	"linluwi": `\u{F19B4}`,
+	"nimisin": `\u{F19B2}`,
+	"omekapo": `\u{F19B6}`,
+	"su": `\u{F19A6}`,
+	"usawi": `\u{F19C3}`,
+	"wasoweli": "\u{F19C5}"
 }
 
 const juniko_list = {
